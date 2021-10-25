@@ -1,6 +1,6 @@
-## Enerjisa Data Science and Analytics Bootcamp HW_1
+## Patika.dev / Enerjisa Data Science and Analytics Bootcamp HW_1
 
-### Enerjisa Veri Bilimi ve Analitiği Bootcamp Ödev_1
+### Patika.dev/ Enerjisa Veri Bilimi ve Analitiği Bootcamp Ödev_1
 
 - *Pandas kütüphanesiyle bir DataFrame oluşturup ve içine Levels of Measurements'ları nominal, ordinal, interval ve ratio olan kolonlar eklendi.*
 - *Ekli data üzerindeki belirli kolonların count, mean, std, min, 25%, 50%, 75%, max değerleri ve IQR metoduyla outlier kalan veri sayısını çıkartılıp, bu değerler sözel ve karşılaştırmalı olarak yorumlandı.*
